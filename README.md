@@ -24,6 +24,6 @@
   
 <div>
   
-![GitHub Snake dark](https://github.com/vidigaljr/vidigaljr/blob/output/github-snake-dark.svg)
+![GitHub animation](https://github.com/vidigaljr/vidigaljr/blob/output/github-snake-dark.svg)
   
 </div>
