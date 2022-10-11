@@ -22,8 +22,4 @@
   
 </div>
   
-<div>
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-snake-dark.svg)
-  
-</div>
+
