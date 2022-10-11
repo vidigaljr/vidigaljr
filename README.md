@@ -10,11 +10,7 @@ Here are some ideas to get you started:
 - 📫 Contate-me pelo e-mail: ivan.vidigaljr@gmail.com
 
 <div align="center">
-3
   <a href="https://github.com/vidigaljr">
-4
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vidigaljr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-5
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidigaljr&layout=compact&langs_count=7&theme=dark"/>
-6
 </div>
