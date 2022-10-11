@@ -1,9 +1,4 @@
-### Hi there, welcome my profiles! 👋
-
-<!--
-**vidigaljr/vidigaljr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Olá Sou o Ivan Vidigal! ### 👋
 
 - 🔭 Trabalho atualmente com Front-end;
 - 🌱 Atualmente estou estudando Banco de dados MySQL, SQLServer, MongoDb, e aprimorando Angular, Javascript;
