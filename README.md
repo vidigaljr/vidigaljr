@@ -23,7 +23,7 @@
 </div>
 <div>
 
-![Snake animation](https://github.com/vidigaljr/vidigaljr/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only/https://github.com/vidigaljr/vidigaljr/blob/output/github-contribution-grid-snake.svg)
 
 </div>
