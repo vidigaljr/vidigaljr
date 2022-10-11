@@ -21,9 +21,9 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
+  
 <div>
-
-
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only/https://github.com/vidigaljr/vidigaljr/blob/output/github-contribution-grid-snake.svg)
-
+  
+![GitHub Snake dark](https://github.com/vidigaljr/vidigaljr/blob/output/github-snake-dark.svg/#gh-dark-mode-only/)
+  
 </div>
