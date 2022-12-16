@@ -1,7 +1,7 @@
 ### Olá Sou o Ivan Vidigal! ### 👋
 
 - 🔭 Trabalho atualmente com Front-end;
-- 🌱 Atualmente estou estudando Banco de dados MySQL, SQLServer, MongoDb, e aprimorando Angular, Javascript;
+- 🌱 Experiência na elaboração de Banco de dados MySQL, SQLServer, MongoDb, e aprimorando Angular, Javascript;
 - 📫 Contate-me pelo e-mail: ivan.vidigaljr@gmail.com
 
 <div>
